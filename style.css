@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+    padding-top: 800px;
+    text-align:center ;
+}
+#img1{
+    margin-top: 200px;
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#welcome{
+    position: absolute;
+    height: 800px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(hsl(317, 71%, 52%) 0%, #4427ae 100%);
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    
+    z-index: 10;
+    cursor: pointer;
+    background-color: white;
+    width:100%;
+    margin-top: 0px;
+
+     
+    
+
+}
+.links{
+    float: center;
+    color: rgb(0, 0, 255);
+    padding-top: 7px;
+    padding-left:9px ;
+    padding-right: 9px;
+    padding-bottom:5px ;
+    font-family: fantasy;
+}
+.links:hover{
+    background-color: aquamarine;
+    font-size: 25px;
+    text-decoration:underline ;
+}
+.h1{
+    font-family: 'Tilt Prism', cursive;
+
+}
+.contact_1 h3{
+    color: burlywood;
+}
+
+
+
+.Myinspiration{
+    transform: (0.9);
+}
